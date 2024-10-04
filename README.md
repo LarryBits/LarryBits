@@ -1,5 +1,6 @@
 ## Hi there 👋
-This is my personal repository
+This is my personal repository.
+I’m currently learning on networking, and learning how to run a webserver from my personal computer.
 <!--
 **kyuubi85/kyuubi85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
