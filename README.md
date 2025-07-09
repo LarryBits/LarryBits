@@ -1,12 +1,12 @@
 ## Hi there 👋
 This is my personal repository.
-I’m currently learning networking, learning how to run a webserver from my personal computer.
+🔭 I’m currently learning Networking and working on to get certified for Comptia Network+.
 <!--
 **kyuubi85/kyuubi85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
